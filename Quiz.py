@@ -43,7 +43,7 @@ ans_four = input("History time! What year was Canada established?\n").lower()
 
 # Respond accordingly, add score after if needed
 if ans_four == "1867" or ans_four == "eighteen sixty seven":
-    print("Nope, that ain't it... haha I'm joking. Yea your right.")
+    print("Nope, that ain't it... haha I'm joking. Yea you're right.")
     score += 1
 else:
     print("I'm disappointed.")
